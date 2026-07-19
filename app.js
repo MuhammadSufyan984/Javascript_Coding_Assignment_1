@@ -706,6 +706,15 @@ function handleClick() {
 }
 
 
+// Question 25: Shopping Cart Array Operations
+// Create an array cart = [] and write these functions:
+
+// addItem(name, price): Adds item object to cart
+// removeItem(name): Removes item by name
+// calculateTotal(): Returns sum of all item prices
+// applyDiscount(percent): Applies discount to total
+// listItems(): Returns array of just item names
+
 {
     // Create an empty cart
     let cart = [];
